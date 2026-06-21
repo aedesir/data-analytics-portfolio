@@ -1,7 +1,7 @@
 # Alexandra Desir | Data & Operations Analyst
 
 Analyst with cross-industry contract experience across Fortune 500 companies 
-in financial services, pharma, and operations — including JPMorganChase, 
+in financial services, pharma, and operations, including JPMorganChase, 
 Citi, Comcast, Merck, GSK, and Siemens Healthineers.
 
 ## Core Skills
